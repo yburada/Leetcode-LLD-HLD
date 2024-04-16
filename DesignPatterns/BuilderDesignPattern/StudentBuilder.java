@@ -37,4 +37,8 @@ public abstract class StudentBuilder {
     }
 
     abstract StudentBuilder setSubjects();
+
+    public Student build(){
+        return new Student(this);
+    }
 }
