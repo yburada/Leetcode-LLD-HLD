@@ -4,6 +4,11 @@ import java.util.List;
 
 public abstract class StudentBuilder {
 
+    /*
+    When we will use Builder Design pattern
+    When the every field is not mandatory. So for creating all args constructor and overloading constructors. We can use Builder Design pattern
+     */
+
     int rollNumber;
     int age;
     String name;

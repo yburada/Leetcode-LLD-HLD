@@ -19,6 +19,6 @@ public class Director {
     }
 
     public Student createMedStudent(){
-        return student.setRollNumber(143).setAge(23).setName("Hema nth").setSubjects().build();
+        return student.setRollNumber(143).setAge(23).setName("Hema nth").setFatherName("Kapali").setMotherName("Kashmora").setSubjects().build();
     }
 }

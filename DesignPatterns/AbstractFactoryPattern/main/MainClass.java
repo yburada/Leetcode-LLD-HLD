@@ -1,10 +1,15 @@
 package DesignPatterns.AbstractFactoryPattern.main;
 
 import DesignPatterns.AbstractFactoryPattern.AbstractFactory.CarsFactory;
-import DesignPatterns.AbstractFactoryPattern.Factories.Cars;
-import DesignPatterns.AbstractFactoryPattern.Vehicles.EngineVehicle;
 
 public class MainClass {
+
+    /*
+    Abstract Factory Design Pattern. It is creating factory of Factories
+    1. Created classes for cars under Engine Vehicles(I)
+    2. for those Vehicle segregated into two Varient Luxary and Non-Luxary Cars under Cars(I) created two factories
+    3. for those Factories Created another CarsFactory this is abstract design pattern.
+     */
 
     private static String carName;
 
