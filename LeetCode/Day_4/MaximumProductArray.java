@@ -1,4 +1,4 @@
-package Day_4;
+package LeetCode.Day_4;
 
 public class MaximumProductArray {
 

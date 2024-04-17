@@ -1,4 +1,4 @@
-package Day_3;
+package LeetCode.Day_3;
 
 import java.util.Map;
 import java.util.LinkedHashMap;

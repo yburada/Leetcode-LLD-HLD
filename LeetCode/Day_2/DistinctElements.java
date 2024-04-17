@@ -1,6 +1,4 @@
-package Day_2;
-
-import java.util.Arrays;
+package LeetCode.Day_2;
 
 public class DistinctElements {
 

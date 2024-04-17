@@ -1,4 +1,4 @@
-package Day_1;
+package LeetCode.Day_1;
 
 public class BestTimeTOBuyTheStock {
         public static void main(String[] args) {
